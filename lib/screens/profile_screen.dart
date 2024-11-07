@@ -12,7 +12,6 @@ class ProfileScreen extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
-            // Header dengan gradient
             Container(
               height: 200,
               decoration: BoxDecoration(
