@@ -1,4 +1,3 @@
-// lib/widgets/menu_card.dart
 import 'package:flutter/material.dart';
 
 class MenuCard extends StatelessWidget {
