@@ -1,4 +1,3 @@
-// lib/screens/home_screen.dart
 import 'package:flutter/material.dart';
 import 'profile_screen.dart';
 import '../widgets/menu_card.dart';
